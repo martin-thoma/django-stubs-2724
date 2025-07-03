@@ -1,0 +1,1 @@
+See https://github.com/typeddjango/django-stubs/issues/2724#issuecomment-3029067263
